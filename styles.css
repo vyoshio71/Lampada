@@ -6,8 +6,7 @@ body {
 
 header {
   display: grid;
-  grid-auto-flow: column;
-  grid-auto-columns: 33vw;
+  text-align: center;
   color: rgb(239, 235, 228);
 }
 
